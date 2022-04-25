@@ -6,7 +6,6 @@ fn main() {
     // --snip--
 
     println!("guess the number!");
-    println!("guess the number!");
 
     let secret_number = rand::thread_rng().gen_range(1..101);
 
